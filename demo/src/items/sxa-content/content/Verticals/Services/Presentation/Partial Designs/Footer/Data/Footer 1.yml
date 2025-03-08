@@ -1,0 +1,94 @@
+﻿---
+ID: "d54bdd49-42af-4bdb-8fc1-1d26d6771506"
+Parent: "95c69d49-9918-4ffc-a301-69b4c868991e"
+Template: "947db8f8-dc76-453f-aca1-a27babfe633b"
+Path: /sitecore/content/Verticals/Services/Presentation/Partial Designs/Footer/Data/Footer 1
+SharedFields:
+- ID: "edf38721-e3f4-4a5f-b94b-44b9749ef0fb"
+  Hint: Image1
+  Value: |
+    <image mediaid="{03A4C5C6-A34F-4A6B-B8BC-6CDC2B2B5DEB}" />
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "24fe8274-d95f-439f-9aeb-6c240759ab6b"
+      Hint: Text1
+      Value: |
+        <p><a href="~/link.aspx?_id=FB70CB0102FD4E6CA4326BE3D537019D&amp;_z=z">Our story</a></p>
+        <p><a href="~/link.aspx?_id=B6E8084AE0E24B2EBBB911222EDF6B35&amp;_z=z">Benefits &amp; services</a></p>
+        <p><a href="~/link.aspx?_id=FFEA8CA4CF8C453A9F7D49D6E60EEA5D&amp;_z=z">Portfolio</a></p>
+        <p><a href="~/link.aspx?_id=D4713FC099044458B6BD938E362F489B&amp;_z=z">Blog</a></p>
+    - ID: "342fb66b-0e4b-419d-ba86-2355e33ee1bf"
+      Hint: Title1
+      Value: Menu
+    - ID: "4770eb87-8856-4251-b831-6c8522c39da1"
+      Hint: Copyright
+      Value: Copyright © Sitecore
+    - ID: "4bf70960-7097-4f87-a67a-8a7e87d1cd01"
+      Hint: Text4
+      Value: 
+    - ID: "63ec28c9-bceb-4180-ba86-5a6b3c975d52"
+      Hint: Link1
+      Value: |
+        <link linktype="external" url="https://www.sitecore.com/legal/privacy-policy" target="" text="Privacy Policy" title="" class=""/>
+    - ID: "798d70ab-9044-4c10-8792-8879857b22ac"
+      Hint: Link2
+      Value: |
+        <link linktype="external" url="https://www.sitecore.com/legal" target="" text="Terms of Use" title="" class=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "43de60f4-3ec1-4b62-89f9-54f91fa69d1b"
+    - ID: "92612ddf-b3fd-4597-a655-de6da2eb553f"
+      Hint: Text3
+      Value: 
+    - ID: "ca370d33-63e1-4e1b-986d-fe82ae23027c"
+      Hint: Text2
+      Value: |
+        <p><a href="~/link.aspx?_id=6805576DDE6A4145A82C64D6F080F1B6&amp;_z=z">Contact</a></p>
+        <p><a href="~/link.aspx?_id=6ABD44E05A6C4050A8A809C117EA6DDB&amp;_z=z">Landing pages</a></p>
+    - ID: "e71e7e6c-29a7-4a9a-a7f8-a4e29609cb64"
+      Hint: Title2
+      Value: Quick links
+    - ID: "ee146d7d-5c17-47f9-acf4-1583573db084"
+      Hint: Title3
+      Value: 
+    - ID: "f17614b2-487a-472c-a509-3e56df0930d4"
+      Hint: Title4
+      Value: 
+- Language: "fr-CA"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "24fe8274-d95f-439f-9aeb-6c240759ab6b"
+      Hint: Text1
+      Value: |
+        <p><a href="#our-story" rel="noopener noreferrer">Our Story</a></p><p><a href="#benefits" rel="noopener noreferrer">Benefits &amp; services</a></p><p><a href="#rewards" rel="noopener noreferrer">Rewards</a></p><p><a href="#special-offers" rel="noopener noreferrer">Special Offers</a></p>
+    - ID: "4770eb87-8856-4251-b831-6c8522c39da1"
+      Hint: Copyright
+      Value: Copyright © Sitecore
+    - ID: "63ec28c9-bceb-4180-ba86-5a6b3c975d52"
+      Hint: Link1
+      Value: |
+        <link linktype="external" url="https://www.sitecore.com/legal/privacy-policy" target="" text="Privacy Policy" title="" class=""/>
+    - ID: "798d70ab-9044-4c10-8792-8879857b22ac"
+      Hint: Link2
+      Value: |
+        <link linktype="external" url="https://www.sitecore.com/legal" target="" text="Terms of Use" title="" class=""/>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f426dcbf-0742-4def-906b-cad37203dba0"
+    - ID: "ca370d33-63e1-4e1b-986d-fe82ae23027c"
+      Hint: Text2
+      Value: |
+        <p><a href="https://example.com" rel="noopener noreferrer">Personal</a></p><p><a href="https://xmc-sitecoresaa19bc-verticalsfa05-staging9bd2.sitecorecloud.io/?sc_horizon=editor&amp;sc_headless_mode=edit&amp;sc_itemid=2fa09ecc-e4f8-4a1e-aa8c-43768ec36b5b&amp;sc_lang=en&amp;sc_site=Financial&amp;sc_version=1&amp;sc_horizonhost=https%3A%2F%2Fpages.sitecorecloud.io#business-accounts" rel="noopener noreferrer">Small Business</a><a href="#business-accounts" rel="noopener noreferrer"> Accounts</a></p><p><a href="#commercial-accounts" rel="noopener noreferrer">Commercial</a></p><p><a href="https://example.com" rel="noopener noreferrer">Retirement</a></p>
+    - ID: "e71e7e6c-29a7-4a9a-a7f8-a4e29609cb64"
+      Hint: Title2
+      Value: Banking services

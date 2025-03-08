@@ -1,0 +1,49 @@
+﻿---
+ID: "b746ff3d-c4cc-4f19-b406-047601e5c3e5"
+Parent: "618ba500-170c-4609-8096-06637410671c"
+Template: "c24bfc74-c6e2-413a-aebd-903180dfaff7"
+Path: /sitecore/content/Verticals/Services/Home/about/Data/Stats Counter 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "1f832359-8b54-46b9-9095-08efc28958e1"
+      Hint: Image1
+      Value: 
+    - ID: "239a7f68-3d70-4c7a-81c3-c280e5283e02"
+      Hint: Image2
+      Value: 
+    - ID: "375bdefa-68a4-4da9-aaa9-fe47bb5fb441"
+      Hint: Value1
+      Value: 1000
+    - ID: "3d96d269-32ef-4ebb-b651-e7ec45497c93"
+      Hint: Caption1
+      Value: Combined years of experience
+    - ID: "56884586-c14f-4b35-83c8-e1c1650c7b36"
+      Hint: Value3
+      Value: 75
+    - ID: "5935d1eb-46d7-4a5f-936a-73d3235fe72a"
+      Hint: Symbol1
+      Value: +
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3b7a33f5-dbbf-4e9f-8ef8-32d14e73849a"
+    - ID: "a5f0268c-d355-4872-9411-c869ad9a1267"
+      Hint: Caption3
+      Value: Agency members
+    - ID: "cc0eff80-a988-4cca-9dbc-5d0688781148"
+      Hint: Value2
+      Value: 500
+    - ID: "d12ed4b9-522e-42b3-b77c-ecd0e59e084f"
+      Hint: Symbol3
+      Value: +
+    - ID: "edf8ebc1-a19b-4a1b-b707-c4434c7e17bc"
+      Hint: Symbol2
+      Value: +
+    - ID: "f3ee3553-9d93-4d8e-89e9-7a9050c97a5a"
+      Hint: Caption2
+      Value: Satisfied clients

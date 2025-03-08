@@ -1,0 +1,26 @@
+﻿---
+ID: "515bb8df-0a01-4a93-876b-12f00b7f91d2"
+Parent: "3cc8a570-d9dc-4c86-b40a-ae718c69715f"
+Template: "2dc7a13e-6753-47ef-805a-1cde39012eec"
+Path: /sitecore/content/Verticals/Services/Home/Data/Questions 1/Question 4
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{42F8779C-8AB1-4D2D-9119-9AE9AC43F286}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "daa08bc0-df65-47ee-9bd4-4c1c4f19aa1c"
+    - ID: "93ba0221-aa2a-4a04-b8f6-39c2ab65c694"
+      Hint: Question
+      Value: "Who are the clients you typically work with?"
+    - ID: "ef205dfd-6af2-4514-b694-77efa748f951"
+      Hint: Answer
+      Value: "<p>We work with a diverse range of clients, from startups and small businesses to large enterprises across various industries. Our clients include companies in technology, e-commerce, healthcare, finance, and more. Regardless of size or sector, we are passionate about helping all our clients achieve their digital goals and make a meaningful impact in their industry.</p>"
